@@ -1,0 +1,145 @@
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.exe.config
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.exe
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.pdb
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.Form1.resources
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.exe
+c:\users\taekeun\documents\visual studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.pdb
+C:\Users\taekeun\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\taekeun\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\taekeun\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\taekeun\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\taekeun\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.exe
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.pdb
+C:\Users\태욱\Downloads\teamsum\teamsum\bin\Debug\teamsum.exe
+C:\Users\태욱\Downloads\teamsum\teamsum\bin\Debug\teamsum.pdb
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\태욱\Downloads\teamsum\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.exe
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.pdb
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\bin\Debug\teamsum.exe
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\bin\Debug\teamsum.pdb
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\taekeun\Documents\카카오톡 받은 파일\teamsum_brick\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.pdb
+C:\Users\ODG\Desktop\teamsum임시\teamsum\bin\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시\teamsum\bin\Debug\teamsum.pdb
+C:\Users\ODG\Desktop\teamsum임시\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\teamsum임시\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\ODG\Desktop\teamsum임시\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\teamsum\bin\Debug\teamsum.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\bin\Debug\teamsum.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\teamsum\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\태욱\Desktop\teamsum\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.exe
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.pdb
+C:\Users\태욱\Desktop\teamsum\teamsum\bin\Debug\teamsum.exe
+C:\Users\태욱\Desktop\teamsum\teamsum\bin\Debug\teamsum.pdb
+C:\Users\태욱\Desktop\teamsum\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\태욱\Desktop\teamsum\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\태욱\Desktop\teamsum\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\bin\Debug\teamsum.exe.config
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.exe
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.pdb
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\bin\Debug\teamsum.exe
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\bin\Debug\teamsum.pdb
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\bin\Debug\Shisen-Sho.exe
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\bin\Debug\Shisen-Sho.pdb
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.csprojResolveAssemblyReference.cache
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.Form1.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.Properties.Resources.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.sa.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.sudoku.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.sutda.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.sutdainfo.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.sutdaset.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.wall.resources
+C:\Users\태욱\Documents\Visual Studio 2015\Projects\응용소프트웨어실습\프로젝트\teamsum\teamsum\obj\Debug\teamsum.csproj.GenerateResource.Cache

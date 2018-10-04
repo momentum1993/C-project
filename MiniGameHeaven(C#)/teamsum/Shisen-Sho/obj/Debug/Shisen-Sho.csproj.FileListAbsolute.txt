@@ -1,0 +1,39 @@
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\bin\Debug\Shisen-Sho.exe.config
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen-Sho.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen_Sho.FrmMain.resources
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen_Sho.Properties.Resources.resources
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen_Sho.Board.resources
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen_Sho.FrmHighScores.resources
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen_Sho.FrmNamePrompt.resources
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen-Sho.csproj.GenerateResource.Cache
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen-Sho.exe
+C:\Users\ODG\Documents\Visual Studio 2015\Projects\Shisen-Sho\obj\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\응소실\팀플\Shisen-Sho0614\bin\Debug\Shisen-Sho.exe.config
+C:\Users\ODG\Desktop\응소실\팀플\Shisen-Sho0614\obj\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\응소실\팀플\Shisen-Sho0614\obj\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\Shisen-Sho\bin\Debug\Shisen-Sho.exe.config
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\Shisen-Sho\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\Shisen-Sho\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen-Sho.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen_Sho.FrmMain.resources
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen_Sho.Properties.Resources.resources
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen_Sho.Board.resources
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen_Sho.FrmHighScores.resources
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen_Sho.FrmNamePrompt.resources
+C:\Users\ODG\Desktop\Shisen-Sho\obj\Debug\Shisen-Sho.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\bin\Debug\Shisen-Sho.exe.config
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\bin\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\bin\Debug\Shisen-Sho.pdb
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen-Sho.csprojResolveAssemblyReference.cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen_Sho.FrmMain.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen_Sho.Properties.Resources.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen_Sho.Board.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen_Sho.FrmHighScores.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen_Sho.FrmNamePrompt.resources
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen-Sho.csproj.GenerateResource.Cache
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen-Sho.exe
+C:\Users\ODG\Desktop\teamsum임시_사천성추가 (2)\teamsum임시_사천성추가\teamsum임시\Shisen-Sho\obj\Debug\Shisen-Sho.pdb

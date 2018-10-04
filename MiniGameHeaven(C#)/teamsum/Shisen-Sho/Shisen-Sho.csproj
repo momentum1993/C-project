@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{013BC7A7-9A33-4D32-876C-8DA195329AEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shisen_Sho</RootNamespace>
+    <AssemblyName>Shisen-Sho</AssemblyName>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>14.0</OldToolsVersion>
+    <PublishUrl>게시\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Board.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Board.Designer.cs">
+      <DependentUpon>Board.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoardCell.cs" />
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNamePrompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNamePrompt.Designer.cs">
+      <DependentUpon>FrmNamePrompt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grid.cs" />
+    <Compile Include="FrmHighScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHighScores.Designer.cs">
+      <DependentUpon>FrmHighScores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Tile.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Board.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Board.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHighScores.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmHighScores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNamePrompt.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmNamePrompt.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="tiles\B.png" />
+    <EmbeddedResource Include="tiles\A.png" />
+    <EmbeddedResource Include="tiles\C.png" />
+    <EmbeddedResource Include="tiles\E.png" />
+    <EmbeddedResource Include="tiles\D.png" />
+    <EmbeddedResource Include="tiles\F.png" />
+    <EmbeddedResource Include="tiles\J.png" />
+    <EmbeddedResource Include="tiles\G.png" />
+    <EmbeddedResource Include="tiles\H.png" />
+    <EmbeddedResource Include="tiles\I.png" />
+    <EmbeddedResource Include="tiles\K.png" />
+    <EmbeddedResource Include="tiles\L.png" />
+    <EmbeddedResource Include="tiles\M.png" />
+    <EmbeddedResource Include="tiles\N.png" />
+    <EmbeddedResource Include="tiles\O.png" />
+    <EmbeddedResource Include="tiles\P.png" />
+    <EmbeddedResource Include="tiles\Q.png" />
+    <EmbeddedResource Include="tiles\R.png" />
+    <EmbeddedResource Include="tiles\S.png" />
+    <EmbeddedResource Include="tiles\T.png" />
+    <EmbeddedResource Include="tiles\U.png" />
+    <EmbeddedResource Include="tiles\V.png" />
+    <EmbeddedResource Include="tiles\W.png" />
+    <EmbeddedResource Include="tiles\X.png" />
+    <EmbeddedResource Include="tiles\Y.png" />
+    <EmbeddedResource Include="tiles\Z.png" />
+    <EmbeddedResource Include="tiles\1.png" />
+    <EmbeddedResource Include="tiles\2.png" />
+    <EmbeddedResource Include="tiles\3.png" />
+    <EmbeddedResource Include="tiles\4.png" />
+    <EmbeddedResource Include="tiles\5.png" />
+    <EmbeddedResource Include="tiles\6.png" />
+    <EmbeddedResource Include="tiles\7.png" />
+    <EmbeddedResource Include="tiles\8.png" />
+    <EmbeddedResource Include="tiles\9.png" />
+    <EmbeddedResource Include="tiles\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
