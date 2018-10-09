@@ -4,9 +4,9 @@
 : 양지용, 신태욱, 연제원
 
 ### 역할 분담
-양지용 : 보스 구현 및 공격 패턴 구현, 아이템 구현
-신태욱 : 플레이어 움직임 및 아이템, 이펙트 구현
-연제원 : 통합 및 디자인
+양지용 : 보스 구현 및 공격 패턴 구현, 아이템 구현  
+신태욱 : 플레이어 움직임 및 아이템, 이펙트 구현  
+연제원 : 통합 및 디자인  
 
 ### 게임 설명
 1. 사방에서 나오는 적기와 해당 적기들이 발사하는 총알을 피하고, 위에서 떨어지는 운석, 일정 
@@ -30,7 +30,7 @@
 6. 만일 죽거나, 클리어를 하게된다면 얻은 점수와 버틴 시간을 보여주게됩니다.
 
 ### 게임 조작 방법
-![ex_screenshot](./img/screenshot.png)
+![ex_screenshot](./how_to_play.jpg)
 
 ### 게임 시연 영상
-[![Alt text for your video](https://youtu.be/jLaCnHAu_4I/0.jpg)](https://youtu.be/jLaCnHAu_4I)
+[![Alt text for your video](https://img.youtube.com/vi/jLaCnHAu_4I/0.jpg)](https://youtu.be/jLaCnHAu_4I)
